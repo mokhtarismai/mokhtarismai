@@ -53,9 +53,9 @@ I build fast, clean, and user-focused web applications — currently open for fu
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Safe Space** | Mental health assessment platform with chat interface, results overview, and profile system | React, Redux Toolkit, TanStack Query, Tailwind CSS v4, Node/Express/MySQL | [Repo](https://github.com/mokhtarismai) |
+| **Safe Space** | Mental health assessment platform with chat interface, results overview, and profile system | React, Redux Toolkit, TanStack Query, Tailwind CSS v4, Node/Express/MySQL | [Repo](https://github.com/M0staafaAhmed/mental-health) |
 | **FreshCart** | Grocery e-commerce app with authenticated routes and protected checkout flow | Next.js, TypeScript, NextAuth.js | [Live](https://freshcart-mk.vercel.app) |
-| **Social Connect** | Social media application with modern UI and interactive features | React, Tailwind CSS | [Repo](https://github.com/mokhtarismai) |
+| **Social Connect** | Social media application with modern UI and interactive features | React, Tailwind CSS | [Repo](https://github.com/mokhtarismai/Social-Connect) |
 
 ---
 
