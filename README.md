@@ -59,14 +59,11 @@ I build fast, clean, and user-focused web applications — currently open for fu
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Currently
 
-<div align="center">
-
-![Mokhtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokhtarismai&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhtarismai&layout=compact&hide_border=true)
-
-</div>
+- 🔭 Building and refining production-ready React/Next.js projects for my portfolio
+- 🎯 Applying for Frontend Developer roles (full-time & freelance)
+- 🌱 Learning C# / ASP.NET as a secondary backend track
 
 ---
 
